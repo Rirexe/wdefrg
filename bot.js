@@ -10,4 +10,4 @@ channel.send(`LOVE FRENDS اسبوعين واكلمكم#0704 LOVE FRENDS اسب�
 }, 30)
 })
 
-client.login(""NTM1MDg3NTIyNTI3NzA3MTM3.DyDLiA.jGBOLdQ_WzG7OZySQmcQ5c4S00o"");
+client.login("NTM1MDg3NTIyNTI3NzA3MTM3.DyDLiA.jGBOLdQ_WzG7OZySQmcQ5c4S00o");
